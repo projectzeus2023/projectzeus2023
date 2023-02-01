@@ -1,16 +1,13 @@
-### Hi there 👋
+# [Project Zeus]([https://mboost.me/a/9c2](https://www.youtube.com/@zeus.lua_))
 
-<!--
-**projectzeus2023/projectzeus2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ㅤㅤㅤㅤㅤㅤﾠㅤﾠ[![Canal](https://img.shields.io/badge/Meu_Canal-0096FF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCs9XEr23rhFegHb7l4JIDNA?sub_confirmation=1_blank)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **1.** Clique no botão acima para ter acesso ao script
+
+- **2.** Inscreva-se no canal e ative as notificações para liberar o site
+
+- **3.** Abra sua executor, insira seu  script, injete-o e execute-o
+
+- **4.** Prepare-se! Script injetado, só usufruir de suas vantagens
+___
