@@ -3,11 +3,5 @@
 ㅤﾠ[![Canal](https://img.shields.io/badge/Meu_Canal-0096FF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCs9XEr23rhFegHb7l4JIDNA?sub_confirmation=1_blank)
 
 
-- **1.** Clique no botão acima para ter acesso ao script
-
-- **2.** Inscreva-se no canal e ative as notificações para liberar o site
-
-- **3.** Abra sua executor, insira seu  script, injete-o e execute-o
-
-- **4.** Prepare-se! Script injetado, só usufruir de suas vantagens
+- O que é o Projeto Zeus? ↦ Este será um canal focado em scripts  para  o público do roblox. Nosso projeto conta com uma github repleta de scripts para os demais jogos da plataforma.
 ___
